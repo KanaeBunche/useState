@@ -1,0 +1,23 @@
+
+.togggle h1{
+font-size: 300px;
+margin: 0 auto;
+}
+
+.now{
+color: #260ee2;
+font-size: 300px;
+}
+
+.you{
+    color: rgb(62, 215, 167);
+    font-size: 300px;
+}
+.see{
+    color: rgb(229, 54, 42);
+    font-size: 300px;
+}
+.me{
+    color: rgba(237, 180, 66, 0.801);
+    font-size: 300px;
+}

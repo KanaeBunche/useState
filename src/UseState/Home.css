@@ -1,0 +1,22 @@
+
+.container{
+    text-align: center;
+    background-color: black;
+    max-width: 500px;
+    max-height: fit-content;
+    margin:0 auto;
+}
+
+.container img{
+  width: 50%;
+}
+
+.container h1{
+  color:white;
+  font-size:40px;
+}
+.container h3{
+  color:white;
+  font-size:20px;
+  text-align: left;
+}
